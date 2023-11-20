@@ -3,7 +3,7 @@
 <h2>👨‍💻 C++ Projects:</h2>
 
 - <b>Monthly Payment Assignment</b>
-  - [Monthly Payment on a loan calculator]()
+  - [Monthly Payment on a loan calculator](https://github.com/imtisal3/Monthly-Payment-Assignment/tree/main)
 
 
 
