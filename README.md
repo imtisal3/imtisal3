@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Imtisal!</h1>
+
+<h2>👨‍💻 C++ Projects:</h2>
+
+- <b>Monthly Payment Assignment</b>
+  - [Monthly Payment on a loan calculator]()
+
+
 
 <!--
-**imtisal3/imtisal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
