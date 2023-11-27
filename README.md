@@ -1,12 +1,15 @@
 <h1>Hi, I'm Imtisal!</h1>
 
-<h2>👨‍💻 C++ Projects:</h2>
+<h2>👩‍💻 C++ Projects:</h2>
 
 - <b>Monthly Payment Assignment</b>
-  - [Monthly Payment on a loan calculator](https://github.com/imtisal3/Monthly-Payment-Assignment/tree/main)
+  - [Monthly Payment on a Loan Calculator](https://github.com/imtisal3/Monthly-Payment-Assignment/tree/main)
 
+<h2>👩‍💻 Java Projects:</h2>
 
-
+- <b>Merge Sort Project</b>
+  - [Merge Sort an Array](https://github.com/imtisal3/Merge-Sort-Project/tree/main)
+  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
